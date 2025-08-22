@@ -1,5 +1,5 @@
-<h1 align="center">✨ Juan Sebastián Ortiz ✨</h1>
-<h3 align="center">💻 Full Stack Developer | Back-End Specialist</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Juan Sebastián Ortiz</span></h1>
+<h3 align="center">💻 Software Developer | Full Stack (Back-End Oriented)</h3>
 
 ---
 
@@ -45,6 +45,12 @@ Always improving with **Clean Code & Agile methodologies**.
 
 ---
 
+## 🌍 Languages
+- 🇪🇸 **Spanish**: Native  
+- 🇺🇸 **English**: B1 – B2  
+
+---
+
 ## 📌 Experience
 🔹 **Full Stack Developer** – Security Alpha (2024 – 2025)  
 🔹 **Back-End Developer** – Swiftech Solutions (2024)  
@@ -57,4 +63,9 @@ Always improving with **Clean Code & Agile methodologies**.
   <a href="mailto:juan.ortiz05@uceva.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juansebastian-ortíz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sebastian-ortiz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://wa.me/573219526047" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
+
+---
+
+⭐️ *"Coding scalable, clean and efficient solutions is my way of making an impact."*
