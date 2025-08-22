@@ -54,9 +54,6 @@ Always improving with **Clean Code & Agile methodologies**.
 ## 📌 Experience
 🔹 **Full Stack Developer** – Security Alpha (2024 – 2025)  
 🔹 **Back-End Developer** – Swiftech Solutions (2024)  
-🔹 **Research Assistant** – UCEVA (2024)  
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
