@@ -61,8 +61,40 @@
 ---
 
 ## 📌 Experience
-🔹 <b>Full Stack Developer</b> – Security Alpha (2024 – 2025) 
-🔹 <b>Back-End Developer</b> – Swiftech Solutions (2024)  
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Full Stack Developer</h3>
+      <b>Security Alpha</b> · (2024 – 2025) 🇨🇴  
+      <ul>
+        <li>Designed scalable web solutions with <b>Laravel</b> & <b>MySQL</b>.</li>
+        <li>Built RESTful APIs and optimized database queries.</li>
+        <li>Collaborated in Agile teams (Scrum & Kanban).</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Back-End Developer</h3>
+      <b>Swiftech Solutions</b> · (2024) 🇨🇴  
+      <ul>
+        <li>Developed and integrated RESTful APIs using <b>Spring Boot</b>.</li>
+        <li>Optimized <b>PostgreSQL</b> & <b>MySQL</b> databases for performance.</li>
+        <li>Worked closely with front-end teams (React).</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+  </tr>
+</table>
+  
 ---
 
 ## 🌐 Connect With Me
