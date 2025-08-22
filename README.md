@@ -3,18 +3,22 @@
 
 ---
 
-## 🌟 Who Am I?
-I'm a passionate **Software Developer** from Colombia 🇨🇴 with experience in **Back-End & Full Stack development**,  
-focused on **RESTful APIs, database optimization, and scalable solutions**.  
-Always improving with **Clean Code & Agile methodologies**.
-
----
-
-## 🌍 Languages I Speak
 <table>
   <tr>
-    <td>🇪🇸 <b>Spanish</b>: Native</td>
-    <td>🇺🇸 <b>English</b>: B1 – B2</td>
+    <td valign="top" width="60%">
+      <h2>🌟 Who Am I?</h2>
+      <p>
+        I'm a passionate <b>Software Developer</b> from Colombia with experience in
+        <b>Back-End & Full Stack development</b>, focused on <b>RESTful APIs</b>, <b>database optimization</b>,
+        and <b>scalable solutions</b>. Always improving with <b>Clean Code</b> & <b>Agile methodologies</b>.
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <h2>🌍 Languages I Speak</h2>
+      <p align="left">
+        🇪🇸 <b>Spanish</b> · Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 <b>English</b> · B1–B2
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -57,17 +61,25 @@ Always improving with **Clean Code & Agile methodologies**.
 ---
 
 ## 📌 Experience
-🔹 **Full Stack Developer** – Security Alpha (2024 – 2025) 🇨🇴  
-🔹 **Back-End Developer** – Swiftech Solutions (2024) 🇨🇴  
+🔹 <b>Full Stack Developer</b> – Security Alpha (2024 – 2025)
+🔹 <b>Back-End Developer</b> – Swiftech Solutions (2024)  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:juan.ortiz05@uceva.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/juansebastian-ortíz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sebastian-ortiz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://wa.me/573219526047" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:juan.ortiz05@uceva.edu.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juansebastian-ortíz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sebastian-ortiz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/573219526047" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
