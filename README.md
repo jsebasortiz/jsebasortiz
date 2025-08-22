@@ -10,6 +10,16 @@ Always improving with **Clean Code & Agile methodologies**.
 
 ---
 
+## 🌍 Languages I Speak
+<table>
+  <tr>
+    <td>🇪🇸 <b>Spanish</b>: Native</td>
+    <td>🇺🇸 <b>English</b>: B1 – B2</td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 My Tech Arsenal
 
 <p align="center">
@@ -36,24 +46,21 @@ Always improving with **Clean Code & Agile methodologies**.
 </p>
 
 <p align="center">
-  <!-- Tools -->
+  <!-- Tools & Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
-## 🌍 Languages
-- 🇪🇸 **Spanish**: Native  
-- 🇺🇸 **English**: B1 – B2  
+## 📌 Experience
+🔹 **Full Stack Developer** – Security Alpha (2024 – 2025) 🇨🇴  
+🔹 **Back-End Developer** – Swiftech Solutions (2024) 🇨🇴  
 
 ---
-
-## 📌 Experience
-🔹 **Full Stack Developer** – Security Alpha (2024 – 2025)  
-🔹 **Back-End Developer** – Swiftech Solutions (2024)  
 
 ## 🌐 Connect With Me
 <p align="center">
